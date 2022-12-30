@@ -1,3 +1,37 @@
+# Calculator iOS Iphone
+
+Calculadora inspirada no designer iOS
+#
+
+### Deploy Netlify 🚀
+[Page 🔗](https://calculator-react-app-navarro.netlify.app/)
+
+### Skills
+
+* JavaScript
+    * Funções
+
+* React
+    * JSX
+    * ReactDOM
+    * Hook:
+        * useState
+
+* CSS
+    * Flex-Box
+    * media Query
+    * Key Frames
+
+#
+
+<div align="center">
+    <h5>Projeto 🏗️</h5>
+    <img src="public/calculateios.gif" alt="projeto gif"/>
+</div>
+
+#
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
